@@ -1,0 +1,5 @@
+homepage: "https://github.com/turingdigital-analytics/GA4-Event-with-built-in-Hit-Timestamp-and-Client-ID"
+documentation: "https://github.com/turingdigital-analytics/GA4-Event-with-built-in-Hit-Timestamp-and-Client-ID"
+versions:
+  - sha: c590e196d788bb5a010097e99100329e58644f25
+    changeNotes: Initial release.
